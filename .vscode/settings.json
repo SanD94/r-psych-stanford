@@ -1,12 +1,12 @@
 {
 	"r.bracketedPaste": true,
-	"r.rterm.linux": "~/.local/bin/radian",
-	"r.lsp.path": "/usr/bin/R",
+	"r.rterm.linux": "/home/sand94/.local/bin/radian",
+	"r.rpath.linux": "/usr/bin/R",
 	"r.lsp.debug": true,
 	"r.lsp.diagnostics": true,
 	"r.rterm.option": [
 		"--no-save",
 		"--no-restore",
-		"--r-binary=*Path to R executable*"
+		"--r-binary=/usr/bin/R"
 	]
 }
