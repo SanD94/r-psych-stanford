@@ -52,6 +52,7 @@ vignettes/*.pdf
 !.vscode/tasks.json
 !.vscode/launch.json
 !.vscode/extensions.json
+!.vscode/r-stat.code-snippets
 *.code-workspace
 
 # End of https://www.toptal.com/developers/gitignore/api/r,vscode
